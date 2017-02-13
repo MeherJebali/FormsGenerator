@@ -1,4 +1,4 @@
-FormsGenerator
+HTMLFormsGenerator
 
 
 This is simple Webpage application allow you to create a html forms
