@@ -1,7 +1,7 @@
 HTMLFormsGenerator
 
 
-This is simple Webpage application allow you to create a html forms
+This is simple Webpage application allows you to create a html forms
 
 
 
